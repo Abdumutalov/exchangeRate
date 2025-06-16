@@ -1,0 +1,27 @@
+[
+  {
+    "BANK_CODE": "W55",
+    "BANK_NAME": "RICH BANK",
+    "BANK_ACTIVE": 1
+  },
+  {
+    "BANK_CODE": "3DD",
+    "BANK_NAME": "UPAY BANK",
+    "BANK_ACTIVE": 1
+  },
+  {
+    "BANK_CODE": "004",
+    "BANK_NAME": "ZOOM BANK",
+    "BANK_ACTIVE": 1
+  },
+  {
+    "BANK_CODE": "BE5",
+    "BANK_NAME": "GREEDY BANK",
+    "BANK_ACTIVE": 1
+  },
+  {
+    "BANK_CODE": "A26",
+    "BANK_NAME": "KOREA BANK",
+    "BANK_ACTIVE": 1
+  }  
+]

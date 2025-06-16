@@ -1,0 +1,50 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type BankModel {
+  BANK_ACTIVE: Float!
+  BANK_CODE: String!
+  BANK_NAME: String!
+}
+
+type BestRateResponse {
+  currency: String!
+  result: [BestRateSummary!]!
+}
+
+type BestRateSummary {
+  bank: String!
+  buy: Float!
+  currency: String!
+  rate_date: String!
+  sell: Float!
+}
+
+input CreateRateInput {
+  bank: String!
+  rate_date: String!
+  rates: [RateInput!]!
+}
+
+type CurrencyModel {
+  character: String!
+  currency_code: String!
+  currency_name: String!
+}
+
+type Mutation {
+  setRates(input: CreateRateInput!): Boolean!
+}
+
+type Query {
+  getAllBanks: [BankModel!]!
+  getAllCurrencies: [CurrencyModel!]!
+  getBestRateByCurrency(currency: String!): BestRateResponse!
+}
+
+input RateInput {
+  buy: Float!
+  currency: String!
+  sell: Float!
+}

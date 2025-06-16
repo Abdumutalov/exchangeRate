@@ -1,0 +1,98 @@
+[
+  {
+    "bank": "W55",
+    "rate_date": "15.06.2025",
+    "rates": [
+      {
+        "buy": 14800,
+        "currency": "X33",
+        "sell": 14900
+      },
+      {
+        "buy": 12500,
+        "currency": "22A",
+        "sell": 12100
+      }
+    ]
+  },
+  {
+    "bank": "3DD",
+    "rate_date": "15.06.2025",
+    "rates": [
+      {
+        "buy": 13400,
+        "currency": "X33",
+        "sell": 13200
+      },
+      {
+        "buy": 14500,
+        "currency": "22A",
+        "sell": 14100
+      }
+    ]
+  },
+  {
+    "bank": "004",
+    "rate_date": "15.06.2025",
+    "rates": [
+      {
+        "buy": 15800,
+        "currency": "X33",
+        "sell": 15900
+      },
+      {
+        "buy": 12500,
+        "currency": "22A",
+        "sell": 12100
+      }
+    ]
+  },
+  {
+    "bank": "BE5",
+    "rate_date": "15.06.2025",
+    "rates": [
+      {
+        "buy": 12400,
+        "currency": "X33",
+        "sell": 13900
+      },
+      {
+        "buy": 12500,
+        "currency": "22A",
+        "sell": 12100
+      }
+    ]
+  },
+  {
+    "bank": "A26",
+    "rate_date": "15.06.2025",
+    "rates": [
+      {
+        "buy": 11400,
+        "currency": "X33",
+        "sell": 14900
+      },
+      {
+        "buy": 12500,
+        "currency": "22A",
+        "sell": 12100
+      }
+    ]
+  },
+  {
+    "bank": "3DD",
+    "rate_date": "16.06.2025",
+    "rates": [
+      {
+        "buy": 12500,
+        "currency": "X33",
+        "sell": 12700
+      },
+      {
+        "buy": 13400,
+        "currency": "22A",
+        "sell": 13600
+      }
+    ]
+  }
+]
