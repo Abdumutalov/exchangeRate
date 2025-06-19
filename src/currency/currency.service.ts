@@ -20,7 +20,7 @@ export class CurrencyService {
 
   async getByCode(code: string) {
     const list = await this.getAll();
-    return list.find((item) => item.currency_code === code);
+    return list.find((item) => item.currency === code);
   }
 
   async getByCharacter(symbol: string) {

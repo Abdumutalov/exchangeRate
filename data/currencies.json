@@ -1,11 +1,11 @@
 [
-  { "currency_code": "X33", "character": "USD" },
-  { "currency_code": "D13", "character": "RUB" },
-  { "currency_code": "W12", "character": "JPY" },
-  { "currency_code": "DFS", "character": "KZT"},
-  { "currency_code": "22A", "character": "EUR"},
-  { "currency_code": "XXZ", "character": "CNY" },
-  { "currency_code": "CCF", "character": "GBP" },
-  { "currency_code": "WRW", "character": "TRY"},
-  { "currency_code": "QSA", "character": "CHF" }
+  { "currency": "X33", "character": "USD" },
+  { "currency": "D13", "character": "RUB" },
+  { "currency": "W12", "character": "JPY" },
+  { "currency": "DFS", "character": "KZT"},
+  { "currency": "22A", "character": "EUR"},
+  { "currency": "XXZ", "character": "CNY" },
+  { "currency": "CCF", "character": "GBP" },
+  { "currency": "WRW", "character": "TRY"},
+  { "currency": "QSA", "character": "CHF" }
 ]
